@@ -7,7 +7,7 @@ Full Stack Developer
 I love to learn new technologies to see which are the ones I like, currently Svelte and Astro are my favorites.
 
 * 🌍  I'm based in Guadalajara, Mexico
-* 🖥️  See my portfolio at [My cv](https://drive.google.com/file/d/1ZkFyW-DHLTU-yO8wZ1ioPlYJBU9_RruF/view?usp=sharing)
+* 🖥️  See my portfolio at [my site](https://eslavi-cv.vercel.app/) or download [my cv](https://drive.google.com/file/d/1ZkFyW-DHLTU-yO8wZ1ioPlYJBU9_RruF/view?usp=sharing)
 * ✉️  You can contact me at [eslavi\_jonhas@hotmail.com](mailto:eslavi_jonhas@hotmail.com)
 * 🧠  I'm learning Astro new features and want to learn next.js
 * 🤝  I'm open to collaborate on any project with those technologies
